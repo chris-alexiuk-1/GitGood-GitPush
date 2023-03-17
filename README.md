@@ -34,4 +34,4 @@ That's it! You're done! You just forked a repo, made a change, and then pushed i
 
 # Sweet Soundtrack
 
-[Push It to the Limit(https://raw.githubusercontent.com/cmagganas/GitGood-GitPush/salt-n-pepa/push_it_to_the_limit.txt)](https://www.youtube.com/watch?v=Olgn9sXNdl0&ab_channel=UniversalPictures)
+[Push It to the Limit](https://www.youtube.com/watch?v=Olgn9sXNdl0&ab_channel=UniversalPictures)
